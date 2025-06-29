@@ -24,11 +24,11 @@ This project showcases how I used SQL to clean, analyze, and visualize car sales
 - Most expensive luxury brands
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard-overview.png)
+![Dashboard Screenshot images on folder]
 
 [🔗 View Full Interactive Dashboard: https://lookerstudio.google.com/reporting/8dacd485-648c-4b4d-b0c3-c28a2c4483b8/page/bpBPF] 
 
 ## 📂 Files
 - `car_sales_queries.sql` – Clean SQL scripts used for analysis
 - `data_dictionary.md` – Brief description of each field
-- `screenshots/` – Dashboard visuals
+
